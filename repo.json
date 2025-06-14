@@ -1,41 +1,26 @@
 {
   "name": "Cncspt's Repository",
   "identifier": "lol.cncspt.repo",
-  "subtitle": "Your Exclusive IPA Repo",
+  "subtitle": "Your Exclusive IPA Repo For Modded Games",
   "iconURL": "https://avatars.githubusercontent.com/u/95188174?v=4",
   "website": "https://github.com/TheWooffles/Cncspts-Repo/",
-  "sourceURL": "https://yourusername.github.io/my-iparepo/cypwn.json",
+  "sourceURL": "https://raw.githubusercontent.com/TheWooffles/Cncspts-Repo/refs/heads/main/repo.json",
   "tintColor": "FFC300",
   "featuredApps": [],
   "apps": [
     {
-      "name": "SQLiteFlow_5.8.6",
-      "bundleIdentifier": "com.hyperobjc.SQLiteFlow-iOS",
-      "developerName": "SQLiteFlow_5.8.6 x YourName",
-      "version": "5.8.6",
-      "versionDate": "2025-06-07",
-      "downloadURL": "https://yourusername.github.io/my-iparepo/ipas/SQLiteFlow_5.8.6.ipa",
-      "localizedDescription": "SQLiteFlow 5.8.6",
-      "iconURL": "https://yourusername.github.io/my-iparepo/serve/icons/SQLiteFlow_5.8.6.png",
+      "name": "Block Strike - Online Shooter",
+      "bundleIdentifier": "com.rexetstudio.blockstrike",
+      "developerName": "Rustam Davletshin",
+      "version": "7.9.9",
+      "versionDate": "6-9-2025",
+      "downloadURL": "",
+      "localizedDescription": "Pixel Shooting Games",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/95/cd/7295cd6c-7f99-95ca-8163-469b747ce900/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp",
       "tintColor": "FFC300",
-      "size": 4194304,
+      "size": 220000000,
       "screenshotURLs": [
-        "https://yourusername.github.io/my-iparepo/serve/screenshots/SQLiteFlow_5.8.6/SQLiteFlow_5.8.6-0.png"
-      ]
-    },
-    {
-      "name": "FileBrowser_Pro_25.6",
-      "bundleIdentifier": "com.stratospherix.filebrowserbiz",
-      "developerName": "FileBrowser_Pro_25.6 x YourName",
-      "version": "25.6",
-      "versionDate": "2025-06-07",
-      "downloadURL": "https://yourusername.github.io/my-iparepo/ipas/FileBrowser_Pro_25.6.ipa",
-      "localizedDescription": "FileBrowser Pro 25.6",
-      "iconURL": "https://yourusername.github.io/my-iparepo/serve/icons/FileBrowser_Pro_25.6.png",
-      "tintColor": "FFC300",
-      "size": 28311552,
-      "screenshotURLs": [
-        "https://yourusername.github.io/my-iparepo/serve/screenshots/FileBrowser_Pro_25.6/FileBrowser_Pro_25.6-0.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3e/6a/43/3e6a43fe-e537-919f-30f6-327d9b72b417/100cb004-c041-4e56-b9e0-a10274796ed1_2bomb.png/313x0w.webp"
       ]
     }
   ]

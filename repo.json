@@ -1,0 +1,42 @@
+{
+  "name": "Cncspt's Repository",
+  "identifier": "lol.cncspt.repo",
+  "subtitle": "Your Exclusive IPA Repo",
+  "iconURL": "https://avatars.githubusercontent.com/u/95188174?v=4",
+  "website": "https://github.com/TheWooffles/Cncspts-Repo/",
+  "sourceURL": "https://yourusername.github.io/my-iparepo/cypwn.json",
+  "tintColor": "FFC300",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "SQLiteFlow_5.8.6",
+      "bundleIdentifier": "com.hyperobjc.SQLiteFlow-iOS",
+      "developerName": "SQLiteFlow_5.8.6 x YourName",
+      "version": "5.8.6",
+      "versionDate": "2025-06-07",
+      "downloadURL": "https://yourusername.github.io/my-iparepo/ipas/SQLiteFlow_5.8.6.ipa",
+      "localizedDescription": "SQLiteFlow 5.8.6",
+      "iconURL": "https://yourusername.github.io/my-iparepo/serve/icons/SQLiteFlow_5.8.6.png",
+      "tintColor": "FFC300",
+      "size": 4194304,
+      "screenshotURLs": [
+        "https://yourusername.github.io/my-iparepo/serve/screenshots/SQLiteFlow_5.8.6/SQLiteFlow_5.8.6-0.png"
+      ]
+    },
+    {
+      "name": "FileBrowser_Pro_25.6",
+      "bundleIdentifier": "com.stratospherix.filebrowserbiz",
+      "developerName": "FileBrowser_Pro_25.6 x YourName",
+      "version": "25.6",
+      "versionDate": "2025-06-07",
+      "downloadURL": "https://yourusername.github.io/my-iparepo/ipas/FileBrowser_Pro_25.6.ipa",
+      "localizedDescription": "FileBrowser Pro 25.6",
+      "iconURL": "https://yourusername.github.io/my-iparepo/serve/icons/FileBrowser_Pro_25.6.png",
+      "tintColor": "FFC300",
+      "size": 28311552,
+      "screenshotURLs": [
+        "https://yourusername.github.io/my-iparepo/serve/screenshots/FileBrowser_Pro_25.6/FileBrowser_Pro_25.6-0.png"
+      ]
+    }
+  ]
+}

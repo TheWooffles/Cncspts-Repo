@@ -1,1 +1,1 @@
-[![Add to Esign](https://img.shields.io/badge/Add%20to%20Esign-blue?logo=apple&logoColor=white)](esign://addsource?url=https://raw.githubusercontent.com/TheWooffles/Cncspts-Repo/refs/heads/main/repo.json)
+[![Add to Esign](https://img.shields.io/badge/Add%20to%20Esign-blue?logo=apple&logoColor=white)](https://yourusername.github.io/esign-addsource)

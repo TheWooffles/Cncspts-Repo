@@ -37,6 +37,21 @@
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleVideo221/v4/4a/7b/6d/4a7b6dae-5837-59e9-bed6-9de77faa76cb/Jobba6daf01-1ce6-4f38-ba60-ff5d3520e956-177726222-PreviewImage_Preview_Image_Intermediate_nonvideo_347230679_1927838371-Time1729279872720.png/313x0w.webp"
       ]
+    },
+    {
+      "name": "Pixel Gun 3D: Online Shooter",
+      "bundleIdentifier": "zombiegun3d",
+      "developerName": "Cubic Games",
+      "version": "25.6.0",
+      "versionDate": "2025-6-11T21:40:00+08:00",
+      "downloadURL": "https://download848.mediafire.com/easxnihv1cxgySORVvc9Ij_prBtwKH-U5vfmQCn9ksvMfMEgt2POz0qCttSMwjwQ3cB_Ttui3akDQXUhdw4GrxefTrHtEza1bIjxqbhk3X9x_dsZmqcFm6ntHMTDmGns8BOVHnuNiUVJaaNGEb6wWcqaHVv3zrHRIe4fuAQoHQ/uh9habh0c7xwwa9/zombiegun3d-25.6.0-Decrypted+Modified.ipa",
+      "localizedDescription": "Battle Royale, Shooting Games",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/8b/ad/5b8bad54-0d81-bcb4-9732-16daca2a838a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp",
+      "tintColor": "FFC300",
+      "size": 805000000,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/91/df/5491df16-6b5d-cc1b-2214-5830926e8f25/Hospital_2778x1284.png/313x0w.webp"
+      ]
     }
   ]
 }
